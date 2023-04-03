@@ -1,4 +1,4 @@
-module main
+module oss
 
 go 1.19
 

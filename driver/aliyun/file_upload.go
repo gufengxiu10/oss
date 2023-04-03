@@ -3,8 +3,9 @@ package aliyun
 import (
 	"io"
 
+	"oss/driver"
+
 	"github.com/aliyun/aliyun-oss-go-sdk/oss"
-	"main/driver"
 )
 
 type upload struct {

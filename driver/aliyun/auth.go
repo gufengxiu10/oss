@@ -1,7 +1,7 @@
 package aliyun
 
 import (
-	"main/driver"
+	"oss/driver"
 
 	"github.com/aliyun/aliyun-oss-go-sdk/oss"
 )

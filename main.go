@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"main/driver"
-	"main/driver/aliyun"
+	"oss/driver"
+	"oss/driver/aliyun"
 )
 
 func main() {
